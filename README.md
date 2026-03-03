@@ -23,7 +23,9 @@ Time range of the data:
 
 **September 2016 – October 2018**
 
-The initial months in 2016 contain limited transaction data, indicating the early stage of platform activity.
+The initial months in 2016 contain limited transaction data, reflecting the early stage of platform activity. 
+
+The final month includes incomplete data, resulting in lower reported revenue.
 
 ---
 
