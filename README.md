@@ -47,8 +47,6 @@ The following business metrics were calculated:
 - Total Customers  
 - Average Order Value (AOV)  
 - Repeat Customer Rate  
-- Monthly Revenue Trend  
-- Revenue Concentration (Top 10% vs Bottom 90%)  
 
 > Note: Orders may contain multiple payments.  
 > Therefore, Average Order Value (AOV) was calculated at the order level.
@@ -109,7 +107,8 @@ The Excel dashboard includes:
 - Revenue share by customer type  
 - Customer purchase frequency distribution  
 - Revenue concentration (Top 10% vs Bottom 90%)  
-- Top 10 product categories  
+- Top 10 product categories
+- Average Revenue per Customer Type
 
 ---![Dashboard](dashboard.png)
 
@@ -149,4 +148,4 @@ The analysis reveals extremely low customer retention and strong dependence on o
 
 The findings suggest that implementing retention strategies could significantly improve long-term revenue stability and customer lifetime value.
 
-This project demonstrates practical SQL querying, business KPI analysis, and dashboard development skills relevant to a Junior Data Analyst role.
+The project applies SQL-based data analysis and dashboard reporting techniques to extract actionable business insights from transactional data.
