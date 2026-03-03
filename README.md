@@ -109,7 +109,7 @@ The Excel dashboard includes:
 - Revenue concentration (Top 10% vs Bottom 90%)  
 - Top 10 product categories  
 
----<img width="1748" height="1009" alt="Zrzut ekranu 2026-03-03 072705" src="https://github.com/user-attachments/assets/7ae5391c-80c6-4b0f-a0cb-f561778999ff" />
+---![Dashboard](dashboard.png)
 
 
 ## 📂 Project Structure
